@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estacion><ide>1</ide><nombreEst>Estacion Meteorológica A</nombreEst><sensores><sensor><id>1</id><nombre>temperatura</nombre><valor>79.0</valor><unidad>°C</unidad><tiempo>2024-07-05T19:27:50.940220</tiempo></sensor><sensor><id>2</id><nombre>humedad_relativa</nombre><valor>4.0</valor><unidad>%</unidad><tiempo>2024-07-05T19:27:50.940220</tiempo></sensor><sensor><id>3</id><nombre>presion_atmosferica</nombre><valor>3.0</valor><unidad>kPa</unidad><tiempo>2024-07-05T19:27:50.940220</tiempo></sensor></sensores></estacion>

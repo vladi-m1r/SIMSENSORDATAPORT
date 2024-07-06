@@ -1,0 +1,1 @@
+Necesita VSPE u otro sw para crear un puerto serial virtual
